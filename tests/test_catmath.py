@@ -1,6 +1,5 @@
 from catinabox import catmath
 
-
 def test__cat_years_to_hooman_years__middle_age__succeeds():
     assert catmath.cat_years_to_hooman_years(8) == 40
 
